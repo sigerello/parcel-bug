@@ -1,0 +1,8 @@
+{
+  "name": "parcel-bug",
+  "version": "1.0.0",
+  "devDependencies": {
+    "parcel-bundler": "^1.9.7"
+  },
+  "dependencies": {}
+}
